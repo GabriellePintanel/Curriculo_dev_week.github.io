@@ -1,2 +1,2 @@
-# gabi-jornada-dev.github.io
-Curriculo do Jornada Dev
+# Curriculo_dev_Week.github.io
+Curriculo feito na Jornada Dev. Utilizando o HTML e CSS.
